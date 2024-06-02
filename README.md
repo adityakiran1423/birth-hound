@@ -1,6 +1,6 @@
 # birth-hound
 <!-- Line break -->
-A UNIX daemon to keep track and notify you about all the birthdays your pea sized brain can't seem to remember, written in Rust🦀
+A UNIX daemon to keep track and notify you about all the birthdays your pea sized brain can't seem to remember, written in Rust 🦀
 
 ## To Note
 
