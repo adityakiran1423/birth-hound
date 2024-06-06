@@ -1,11 +1,5 @@
-use std::error::Error;
-use csv::ReaderBuilder;
+pub mod cmd_handler;
 
 fn main() {
-    println!("birth-hound");
-    // csv_reader();
-}
-
-fn csv_reader() -> bool {
-    // match command 
+    cmd_handler::args_handler();
 }
